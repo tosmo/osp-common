@@ -1,10 +1,10 @@
-## OSMO Common Library
+## TOSMO OSP Common Library
 
-[![Build Status](https://travis-ci.org/osmo/osp-common.svg)](https://travis-ci.org/osmo/osp-common)
-[![Total Downloads](https://poser.pugx.org/osmo/osp-common/d/total.svg)](https://packagist.org/packages/osmo/osp-common)
-[![Latest Stable Version](https://poser.pugx.org/osmo/osp-common/v/stable.svg)](https://packagist.org/packages/osmo/osp-common)
-[![Latest Unstable Version](https://poser.pugx.org/osmo/osp-common/v/unstable.svg)](https://packagist.org/packages/osmo/osp-common)
-[![License](https://poser.pugx.org/osmo/osp-common/license.svg)](https://packagist.org/packages/osmo/osp-common)
+[![Build Status](https://travis-ci.org/tosmo/osp-common.svg)](https://travis-ci.org/tosmo/osp-common)
+[![Total Downloads](https://poser.pugx.org/tosmo/osp-common/d/total.svg)](https://packagist.org/packages/tosmo/osp-common)
+[![Latest Stable Version](https://poser.pugx.org/tosmo/osp-common/v/stable.svg)](https://packagist.org/packages/tosmo/osp-common)
+[![Latest Unstable Version](https://poser.pugx.org/tosmo/osp-common/v/unstable.svg)](https://packagist.org/packages/tosmo/osp-common)
+[![License](https://poser.pugx.org/tosmo/osp-common/license.svg)](https://packagist.org/packages/tosmo/osp-common)
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
 
